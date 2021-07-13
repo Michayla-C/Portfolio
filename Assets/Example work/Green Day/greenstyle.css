@@ -146,11 +146,6 @@ ul li a:hover{
     color: seagreen;
 }
 
-div .wrapper {
-    margin: auto;
-    width: auto;
-}
-
 p {
     color: rgba(245, 245, 245, 0.925);
     background-color: rgb(49, 46, 46);
@@ -159,12 +154,20 @@ p {
     text-indent: 5%;
     text-align: left;
 }
+
 img {
     align-items: center;
 }
+
 a {
     color: seagreen;
 }
+
+.wrapper {
+    margin: 0 auto;
+    width: 70%;
+}
+
 div .videowrapper {
     margin: 0 auto;
     width: 60%;
@@ -204,6 +207,7 @@ h5 {
       width: 100%;
     }
   }
+  
 /*my stuff*/
 
 .flex-container {
